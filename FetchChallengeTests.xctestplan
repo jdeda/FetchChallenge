@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "B82D385C-4F56-4A5D-883F-07A880F7B62C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FetchChallenge.xcodeproj",
+        "identifier" : "9742DA142DD77FA600D49955",
+        "name" : "FetchChallengeTests"
+      }
+    }
+  ],
+  "version" : 1
+}
